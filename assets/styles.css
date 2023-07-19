@@ -1,0 +1,18 @@
+html,
+body {
+  min-height: 100%;
+  background: #121212;
+  color: #efefef;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+a {
+  color: hotpink !important;
+}
+
+img.amazon-img {
+  box-shadow: white 0 0 10px;
+  border-radius: 10px;
+}
